@@ -25,6 +25,8 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Swindon Advertiser: [Wiltshire Police spend over £100k policing STFC home football matches](http://www.swindonadvertiser.co.uk/news/16373147.wiltshire-police-spend-over-100k-policing-stfc-home-football-matches/) *24 July 2018*
 * Sunderland Echo: [Sunderland v Middlesbrough match had one police officer for every 50 fans](https://www.sunderlandecho.com/news/sunderland-v-middlesbrough-match-had-one-police-officer-for-every-50-fans-1-9266178) *24 July 2018*
 * Northern Echo: [Public foot £101,000 bill for policing just 9 football matches](http://www.thenorthernecho.co.uk/news/16372456.public-pay-101000-to-police-just-8-football-matches/) *24 July 2018*
+* Evening Express: [Aberdeen FC rack up £50,000 bill for policing Pittodrie games](https://www.eveningexpress.co.uk/fp/news/local/dons-rack-up-50000-bill-for-policing-pittodrie-games/) *24 July 2018*
+* Sheffield: The Star: [Steel City derby 'most expensive match to police in country', according to figures](https://www.thestar.co.uk/news/steel-city-derby-most-expensive-match-to-police-in-country-according-to-figures-1-9266253) *24 July 2018*
 
 * The story was also used by BBC Newcastle, BBC Tees, BBC Scotland, BBC Radio Cornwall, BBC WM, BBC Berkshire, BBC Radio Lincolnshire, BBC Radio Sheffield, BBC Radio Shropshire, BBC Radio Suffolk, BBC Radio Leicester, BBC Radio Humberside 
 
