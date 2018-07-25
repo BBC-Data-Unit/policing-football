@@ -27,6 +27,9 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Northern Echo: [Public foot £101,000 bill for policing just 9 football matches](http://www.thenorthernecho.co.uk/news/16372456.public-pay-101000-to-police-just-8-football-matches/) *24 July 2018*
 * Evening Express: [Aberdeen FC rack up £50,000 bill for policing Pittodrie games](https://www.eveningexpress.co.uk/fp/news/local/dons-rack-up-50000-bill-for-policing-pittodrie-games/) *24 July 2018*
 * Sheffield: The Star: [Steel City derby 'most expensive match to police in country', according to figures](https://www.thestar.co.uk/news/steel-city-derby-most-expensive-match-to-police-in-country-according-to-figures-1-9266253) *24 July 2018*
+* Newham Recorder: [Revealed: The true cost of policing West Ham matches](http://www.newhamrecorder.co.uk/news/west-ham-sees-most-expensive-game-to-police-in-first-half-of-2017-18-season-1-5621644) *25 July 2018*
+* Swindon Advertiser: [Wiltshire Police respond to Adver's football policing costs story](http://www.swindonadvertiser.co.uk/news/16375876.wiltshire-police-respond-to-advers-football-policing-costs-article/) *25 July 2018*
+* Chronicle Live: [The incredible stats that prove Newcastle United fans' loyalty - but is St James' Park all sold out with nowhere to grow?](https://www.chroniclelive.co.uk/news/north-east-news/newcastle-united-st-james-attendances-14948200)
 
 * The story was also used by BBC Newcastle, BBC Tees, BBC Scotland, BBC Radio Cornwall, BBC WM, BBC Berkshire, BBC Radio Lincolnshire, BBC Radio Sheffield, BBC Radio Shropshire, BBC Radio Suffolk, BBC Radio Leicester, BBC Radio Humberside 
 
