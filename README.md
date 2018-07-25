@@ -31,7 +31,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Swindon Advertiser: [Wiltshire Police respond to Adver's football policing costs story](http://www.swindonadvertiser.co.uk/news/16375876.wiltshire-police-respond-to-advers-football-policing-costs-article/) *25 July 2018*
 * Chronicle Live: [The incredible stats that prove Newcastle United fans' loyalty - but is St James' Park all sold out with nowhere to grow?](https://www.chroniclelive.co.uk/news/north-east-news/newcastle-united-st-james-attendances-14948200)
 
-* The story was also used by Sportsday on the BBC News Channel, BBC Newcastle, BBC Tees, BBC Scotland, BBC Radio Cornwall, BBC WM, BBC Berkshire, BBC Radio Lincolnshire, BBC Radio Sheffield, BBC Radio Shropshire, BBC Radio Suffolk, BBC Radio Leicester, BBC Radio Humberside 
+* The story was also used by Sportsday on the BBC News Channel, BBC Radio 5 Live, BBC Newcastle, BBC Tees, BBC Scotland, BBC Radio Cornwall, BBC WM, BBC Berkshire, BBC Radio Lincolnshire, BBC Radio Sheffield, BBC Radio Shropshire, BBC Radio Suffolk, BBC Radio Leicester, BBC Radio Humberside, BBC Radio Stoke and BBC Radio Manchester. 
 
 
 ## Get the data
