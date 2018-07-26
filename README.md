@@ -18,6 +18,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 
 * Teeside Live: [Sunderland vs Middlesbrough was most heavily policed fixture in the Championship last year](https://www.gazettelive.co.uk/news/teesside-news/sunderland-vs-middlesbrough-most-heavily-14943921) *24 July 2018*
 * The Yorkshire Post: [Police forces can't continue to subsidise 'multi-billion pound football industry', police chief says](https://www.yorkshirepost.co.uk/news/police-forces-can-t-continue-to-subsidise-multi-billion-pound-football-industry-police-chief-says-1-9266056) *24 July 2018*
+* The Yorkshire Post: [The Yorkshire Post says: Policing costs don’t tell full story of football’s benefits to region](https://www.yorkshirepost.co.uk/news/the-yorkshire-post-says-policing-costs-don-t-tell-full-story-of-football-s-benefits-to-region-1-9266000) *24 July 2018*
 * Yorkshire Evening Post: [Leeds United's £25k-a-game average bill for match-day policing revealed](https://www.yorkshireeveningpost.co.uk/news/leeds-united-s-25k-a-game-average-bill-for-match-day-policing-revealed-1-9266044) *24 July 2018*
 * Chronicle Live: [600 officers and a half-empty stadium: How police worked at Newcastle United and Sunderland games](https://www.chroniclelive.co.uk/news/north-east-news/600-officers-half-empty-stadium-14943729) *24 July 2018*
 * Birmingham Mail: [The revealing police stat about that Birmingham City vs Aston Villa derby](https://www.birminghammail.co.uk/sport/football/football-news/revealing-police-stat-birmingham-city-14943421) *24 July 2018*
