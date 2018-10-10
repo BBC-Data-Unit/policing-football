@@ -34,6 +34,7 @@ The Shared Data Unit makes data journalism available to news organisations acros
 * Grimsby Live: [Grimsby Town match among 'most policed games' in Football League during 2017/18 season](https://www.grimsbytelegraph.co.uk/sport/football/football-news/grimsby-town-match-among-most-1828003) *26 July 2018*
 * Coventry Telegraph: [BBC Price of Policing: How much Coventry City paid for police at Ricoh Arena last season](https://www.coventrytelegraph.net/news/coventry-news/bbc-price-policing-how-much-14942432) *28 July 2018*
 * Bristol Post: [This is the cost of policing Bristol City and Bristol Rovers matches](https://www.bristolpost.co.uk/news/bristol-news/cost-policing-bristol-city-bristol-1841307) *30 July 2018*
+* Yorkshire Evening Post: [Leeds United pays more for match-day policing but gets fewer officers than Huddersfield Town, figures show](https://www.yorkshireeveningpost.co.uk/news/leeds-united-pays-more-for-match-day-policing-but-gets-fewer-officers-than-huddersfield-town-figures-show-1-9381765) *4 October 2018*
 
 
 * The story was also used by Sportsday on the BBC News Channel, BBC Radio 5 Live, BBC Newcastle, BBC Tees, BBC Scotland, BBC Radio Cornwall, BBC WM, BBC Berkshire, BBC Radio Lincolnshire, BBC Radio Sheffield, BBC Radio Shropshire, BBC Radio Suffolk, BBC Radio Leicester, [BBC Radio Humberside](https://drive.google.com/file/d/16eXKRi4AY6Zgw7T7DYT9ELCPFoKAgtUX/view?usp=sharing), BBC Radio Stoke and BBC Radio Manchester. 
